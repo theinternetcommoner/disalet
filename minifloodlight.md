@@ -1,6 +1,6 @@
 # Emergency Mini Floodlight
 
-<img src = "images/minifloodlight.jpg" width="70%" alt="mini flood light"/>
+![mini floodlight](images/minifloodlight.jpg)
 
 *The light you can depend when everything goes dark.*
 
