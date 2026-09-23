@@ -16,13 +16,13 @@ Made of high quality, hand-picked materials. Compact, lightweight, and durable. 
 - Wireless remote control feature
 
 ## How to Order
-You can reach us via the following:
-Facebook:
-[DISALET PISOWIFI](https://www.facebook.com/share/19L1B9W38S/)
-Email:
-theinternetcommoner@gmail.com
-hungrianoadolf@gmail.com
-Mobile:
+You can reach us via the following:  
+Facebook:  
+[DISALET PISOWIFI](https://www.facebook.com/share/19L1B9W38S/)  
+Email:  
+theinternetcommoner@gmail.com  
+hungrianoadolf@gmail.com  
+Mobile:  
 09464249582
 
 ### Want to build one yourself?
