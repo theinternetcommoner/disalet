@@ -1,6 +1,6 @@
 # Emergency Mini Floodlight
 
-![mini floodlight|650](images/minifloodlight.jpg)
+![mini floodlight|450](images/minifloodlight.jpg)
 
 *The light you can depend when everything goes dark.*
 
